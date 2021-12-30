@@ -1,0 +1,24 @@
+package selfProgramming;
+import java.util.Scanner;
+public class slide18a {
+
+	public static void main(String[] args) 
+	{
+		Scanner input = new Scanner (System.in);
+		
+		double[] sales = new double[10];
+		int index;
+
+		for (index = 0; index < sales.length;index++)
+		{
+		  System.out.print("Enter your sales: ");
+		  sales[index] = input.nextDouble();
+		  System.out.println(sales[index]);
+		}
+		
+		
+
+
+	}
+
+}
