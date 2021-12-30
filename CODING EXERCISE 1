@@ -1,0 +1,27 @@
+package selfProgramming;
+
+public class slide17 {
+
+	public static void main(String[] args) 
+	{
+		double[] sales = new double[10];
+		int index;
+
+		for (index = 0; index < sales.length;index++)
+		    sales[index] = 10.00;
+		 System.out.println(sales[0]);
+		 System.out.println(sales[1]);
+		 System.out.println(sales[2]);
+		 System.out.println(sales[3]);
+		 System.out.println(sales[4]);
+		 System.out.println(sales[5]);
+		 System.out.println(sales[6]);
+		 System.out.println(sales[7]);
+		 System.out.println(sales[8]);
+		 System.out.println(sales[9]);
+		 
+
+
+	}
+
+}
