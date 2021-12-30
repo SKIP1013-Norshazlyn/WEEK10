@@ -1,0 +1,42 @@
+Enter Row length of an array : 
+6
+Enter column length of an array : 
+3
+Enter 18 Elements to Store in Array :
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Elements in Array are :
+Row [0]:  Column [0] :1
+Row [0]:  Column [1] :2
+Row [0]:  Column [2] :3
+Row [1]:  Column [0] :4
+Row [1]:  Column [1] :5
+Row [1]:  Column [2] :6
+Row [2]:  Column [0] :7
+Row [2]:  Column [1] :8
+Row [2]:  Column [2] :9
+Row [3]:  Column [0] :10
+Row [3]:  Column [1] :11
+Row [3]:  Column [2] :12
+Row [4]:  Column [0] :13
+Row [4]:  Column [1] :14
+Row [4]:  Column [2] :15
+Row [5]:  Column [0] :16
+Row [5]:  Column [1] :17
+Row [5]:  Column [2] :18
